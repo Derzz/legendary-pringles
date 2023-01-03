@@ -38,8 +38,8 @@ You would know if you got a pringbill if it made a "kaching noise" and the page 
 
 ### Sugar Ending(No Pringbills, Select Sugar as Weapon)
 
-- If you have no pringbills without getting the artifact and selecting sugar as your weapon on page 2, you will get the sugar ending
+- If you have no pringbills without getting the artifact and selecting sugar as your weapon on page 2, you will get the sugar ending.
 
 ### Salt Ending(No Pringbills, Select Salt as Weapon)
 
-- If you have no pringbills without getting the artifact and selecting salt as your weapon on page 2, you will get the salt ending
+- If you have no pringbills without getting the artifact and selecting salt as your weapon on page 2, you will get the salt ending.
