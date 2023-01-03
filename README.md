@@ -14,6 +14,7 @@ Due to this game having copyrighted songs, the following audio files are missing
 | legend.wav          | Plays on Legend Ending                                       | Eduard Khil; I am very glad, because I'm finally returning back home [TROLOLO] |
 | dreams.wav          | Plays on Sugar Ending                                        | Alan Walker; Flying Dreams                                   |
 | spooky.wav          | Plays when entering the cave(Page 6)                         | Andrew Gold - Spooky Scary Skeletons                         |
+| intro.wav           | Plays on the first page                                      | Main Theme - Professor Layton vs. Phoenix Wright: Ace Attorney |
 |                     |                                                              |                                                              |
 
 Note: journey.wav is included(SNES Monopoly Main Theme)
@@ -22,6 +23,9 @@ Then put them in the same folder with all assets and "The Quest to Find The Lege
 
 ## Dependencies
 Python 3
+
+## How to Run
+Download all files and extract. Open "The Quest to Find The Legendary Pringles.py" in IDLE and run the file.
 
 ## Walkthrough
 Please look in walkthrough.md to find how to get all the secrets and specified endings.
