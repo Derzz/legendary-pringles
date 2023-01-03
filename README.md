@@ -15,7 +15,6 @@ Due to this game having copyrighted songs, the following audio files are missing
 | dreams.wav          | Plays on Sugar Ending                                        | Alan Walker; Flying Dreams                                   |
 | spooky.wav          | Plays when entering the cave(Page 6)                         | Andrew Gold - Spooky Scary Skeletons                         |
 | intro.wav           | Plays on the first page                                      | Main Theme - Professor Layton vs. Phoenix Wright: Ace Attorney |
-|                     |                                                              |                                                              |
 
 Note: journey.wav is included(SNES Monopoly Main Theme)
 
